@@ -1,4 +1,4 @@
-[SQL_Project-14march (1).zip](https://github.com/sahilpatel2704/sahilpatel2704/files/8560757/SQL_Project-14march.1.zip)
+
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
 
@@ -16,12 +16,11 @@ For the presentation component, the student had to create four slides, and each 
 
 ### Project Submission
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
 
 ### Question Sets
 
 A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission.
-[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project%201/Project%20Question)
+
 
 ## Project 2
 
@@ -61,7 +60,4 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
 
-# My Certificate of Completion
-<img src="Images/Data Science.png" width="1000">
