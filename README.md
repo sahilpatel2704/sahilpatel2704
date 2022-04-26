@@ -1,4 +1,3 @@
-[SQL_Project-14march (1).zip](https://github.com/sahilpatel2704/sahilpatel2704/files/8560757/SQL_Project-14march.1.zip)
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
 
